@@ -1,0 +1,101 @@
+.image1{
+        background: url('workspace-1280538_1920.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+        overflow-x: hidden;
+}
+
+.image2{
+        background: url('computer-768696_1920.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+        overflow-x: hidden;
+}
+
+.image3{
+        background: url('bright-4357415_1920.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+        overflow-x: hidden;
+}
+
+.image4{
+        background: url('pexels-jéshoots-238118.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+        overflow-x: hidden;
+}
+
+.overlay1 {
+        position: absolute;
+        min-height: 100%;
+        min-width: 100%;
+        left: 0;
+        top: 0;
+        background: rgba(0, 0, 0, 0.6);
+    }
+
+    .overlay2 {
+        position: absolute;
+        min-height: 100%;
+        min-width: 100%;
+        left: 0;
+        top: 0;
+        background: rgba(0, 0, 0, 0.6);
+    }
+
+    .overlay3 {
+        position: absolute;
+        min-height: 100%;
+        min-width: 100%;
+        left: 0;
+        top: 0;
+        background: rgba(0, 0, 0, 0.6);
+    }
+
+    .overlay4 {
+        position: absolute;
+        min-height: 100%;
+        min-width: 100%;
+        left: 0;
+        top: 0;
+        background: rgba(0, 0, 0, 0.6);
+    }
+
+    
+
+.home{
+        font-size: 1.5em;
+}
+
+
+
+.aboutme{
+        color:rgb(254, 254, 255);
+        
+}
+
+footer{
+        bottom: 0;
+        left: 0;
+        margin-top: 5em;
+       }
+
+.form-control{
+        border-radius: 10px;
+        background: transparent;
+}
+
+.submit{
+        border-radius: 10px;
+        width: 50%;
+        
+}
